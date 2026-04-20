@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sofey</string>
+    <string name="accessibility_description">Sofey uses this service to turn off the screen when you tap the lock button.</string>
+</resources>
